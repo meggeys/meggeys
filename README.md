@@ -8,3 +8,8 @@ and video games, even tho I'm a noob in every game I play :D
 meggeys/meggeys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+I also like unicorns and pink so take this Derpycorn my boyfriend drew and the hug I'm giving you!
+
+![alt text](https://github.com/meggeys/meggeys/blob/main/DerpycornB.png?raw=true)
+![alt text](https://github.com/meggeys/meggeys/blob/main/meggeyHug1000.png?raw=true)
