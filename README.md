@@ -11,9 +11,10 @@ You can click the Preview link to take a look at your changes.
 
 I also like unicorns and pink so take this Derpycorn my boyfriend drew and the hug I'm giving you!
 
-<a href="url"><img src="[http://url.to/image.png](https://github.com/meggeys/meggeys/blob/main/DerpycornB.png)" align="left" height="250" width="250" ></a>
-<a href="url"><img src="[http://url.to/image.png](https://github.com/meggeys/meggeys/blob/main/meggeyHug1000.png)" align="left" height="250" width="250" ></a>
+<a href="url"><img src="[http://url.to/image.png](https://github.com/meggeys/meggeys/blob/main/DerpycornB.png?raw=true)" align="left" height="250" width="250" ></a>
+
+<a href="url"><img src="[http://url.to/image.png](https://github.com/meggeys/meggeys/blob/main/meggeyHug1000.png?raw=true)" align="left" height="250" width="250" ></a>
 
 
-![alt text](https://github.com/meggeys/meggeys/blob/main/DerpycornB.png?raw=true =250x250)
-![alt text](https://github.com/meggeys/meggeys/blob/main/meggeyHug1000.png?raw=true =250x250)
+![alt text](https://github.com/meggeys/meggeys/blob/main/DerpycornB.png?raw=true)
+![alt text](https://github.com/meggeys/meggeys/blob/main/meggeyHug1000.png?raw=true)
