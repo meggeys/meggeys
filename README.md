@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 I also like unicorns and pink so take this Derpycorn my boyfriend drew and the hug I'm giving you!
 
-<p float="center">
+<p float="center" align="center">
   <a href="url"><img src="https://github.com/meggeys/meggeys/blob/main/DerpycornB.png" align="center" height="250" width="250" ></a>
   <a href="url"><img src="https://github.com/meggeys/meggeys/blob/main/meggeyHug1000.png" align="center" height="250" width="250" ></a>
 </p>
