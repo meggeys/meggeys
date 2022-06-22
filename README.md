@@ -17,6 +17,6 @@ I also like unicorns and pink so take this Derpycorn my boyfriend drew and the h
 </p>
 
 <p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=meggeys&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=meggeys&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
           
