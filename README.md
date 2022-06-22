@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 I also like unicorns and pink so take this Derpycorn my boyfriend drew and the hug I'm giving you!
 
-![alt text](https://github.com/meggeys/meggeys/blob/main/DerpycornB.png?raw=true)
-![alt text](https://github.com/meggeys/meggeys/blob/main/meggeyHug1000.png?raw=true)
+![alt text](https://github.com/meggeys/meggeys/blob/main/DerpycornB.png?raw=true =250x250)
+![alt text](https://github.com/meggeys/meggeys/blob/main/meggeyHug1000.png?raw=true =250x250)
