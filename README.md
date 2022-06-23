@@ -1,5 +1,7 @@
 # About me
 
+First of all, if you want a more beautiful version where you can read things about me, go over here: https://meggeys.github.io/
+
 - 👋 Hi, I’m @meggeys. 26, beginner coder and trying to spread love and happiness in the world.
 - 👀 I’m interested in... good question. Non-coding related stuff would be music (like actually making music, not only listening)
 and video games, even tho I'm a noob in every game I play :D
